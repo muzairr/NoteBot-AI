@@ -55,8 +55,8 @@ const User = mongoose.model('User', UserSchema, 'authentication');
 // const stripe = new Stripe(process.env.Stripe_Secret_Key)
 // AWS.config.update({
 //   region: 'us-east-2',
-//   accessKeyId: 'AKIA47GCAFFHQBTJSXXS',
-//   secretAccessKey: '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',
+//   accessKeyId: 'AKIA4xxxxxxxxxxxx',
+//   secretAccessKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxx',
 // });
 
 // Initialize CognitoIdentityServiceProvider
